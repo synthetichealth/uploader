@@ -1,0 +1,17 @@
+{
+	"ImportPath": "github.com/synthetichealth/uploader",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v63",
+	"Deps": [
+		{
+			"ImportPath": "github.com/intervention-engine/fhir/models",
+			"Comment": "DSTU1-154-gae967bd",
+			"Rev": "ae967bd38fd1bfc823ee145c8889ffe22d3cafca"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2015.12.06-2-g03c9f3e",
+			"Rev": "03c9f3ee4c14c8e51ee521a6a7d0425658dd6f64"
+		}
+	]
+}
